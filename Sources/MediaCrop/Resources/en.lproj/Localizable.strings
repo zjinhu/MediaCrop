@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  PhotoPicker_SwiftUI
+
+  Created by HU on 2024/4/30.
+  
+*/
+
+"正在同步iCloud" = "iCloud syncing";
+"iCloud同步失败" = "iCloud sync failed";
+"图片获取失败!" = "Image acquisition failed!";
+"视频获取失败!" = "Video acquisition failed!";
+"提示" = "Prompt";
+"正在处理..." = "Processing...";
+"处理失败" = "Processing failed";
+"取消" = "Cancel";
+"确定" = "Done";
